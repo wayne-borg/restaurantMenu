@@ -1,2 +1,2 @@
 # restaurantMenu
-Simple restaurant menu
+Simple restaurant menu using HTML and CSS
